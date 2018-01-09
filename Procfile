@@ -1,1 +1,1 @@
-web: gunicorn testSite
+web: gunicorn sample_app
